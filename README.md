@@ -1,5 +1,7 @@
 # Eurorack Power Bus
 
+<img align="right" src="./PlaceholderImage.png">
+
 .....
 
 ## Design files
