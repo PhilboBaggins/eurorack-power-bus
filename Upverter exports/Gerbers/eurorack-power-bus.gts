@@ -117,7 +117,7 @@ X54270Y13730D03*
 X54270Y11190D03*
 X54270Y8650D03*
 X54270Y6110D03*
-%LNtop solder mask component f0989937e0df849d*%
+%LNtop solder mask component 704b63ae7c3aa1ee*%
 D15*
 X150000Y9310D03*
 X150000Y1690D03*
@@ -152,29 +152,23 @@ X74270Y6110D03*
 %LNtop solder mask component 38162f618b9ac868*%
 D12*
 X103000Y28000D03*
-%LNtop solder mask component 776d6d4ab46e2070*%
-D18*
-X154750Y14730D03*
-D19*
-X154750Y17270D03*
-%LNtop solder mask component 4bd1d0b04df16f9b*%
-D12*
-X63000Y28000D03*
-%LNtop solder mask component 5a27114fed002667*%
-D18*
-X154750Y25230D03*
-D19*
-X154750Y27770D03*
-%LNtop solder mask component 47fb3bc1e1c161d0*%
+%LNtop solder mask component 3cbb6c8d5c864de3*%
+X103000Y4000D03*
+%LNtop solder mask component e2569e2e46d45bc6*%
 D18*
 X155000Y4230D03*
 D19*
 X155000Y6770D03*
-%LNtop solder mask component 6b99a60343372a19*%
+%LNtop solder mask component 4bd1d0b04df16f9b*%
 D12*
+X63000Y28000D03*
+%LNtop solder mask component 6b99a60343372a19*%
 X23000Y28000D03*
-%LNtop solder mask component 3cbb6c8d5c864de3*%
-X103000Y4000D03*
+%LNtop solder mask component 3fa9178f42df470f*%
+D18*
+X155000Y14730D03*
+D19*
+X155000Y17270D03*
 %LNtop solder mask component 9d731209b46d7799*%
 D13*
 X31730Y23890D03*
@@ -199,13 +193,13 @@ D10*
 X10960Y23500D03*
 D11*
 X16040Y23500D03*
+%LNtop solder mask component 98e62bbff07fcb3d*%
+D12*
+X63000Y4000D03*
 %LNtop solder mask component d8a8b9029d789fe8*%
 D15*
 X150000Y30310D03*
 X150000Y22690D03*
-%LNtop solder mask component 98e62bbff07fcb3d*%
-D12*
-X63000Y4000D03*
 %LNtop solder mask component 8578cc6612424d73*%
 D10*
 X10960Y3500D03*
@@ -216,4 +210,9 @@ D10*
 X10960Y18500D03*
 D11*
 X16040Y18500D03*
+%LNtop solder mask component a977f2dfb11c0424*%
+D18*
+X155000Y25230D03*
+D19*
+X155000Y27770D03*
 M02*
