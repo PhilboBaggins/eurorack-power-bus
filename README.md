@@ -19,12 +19,6 @@ The bill of materials lists specific a part number for the 3 LEDs but really any
 * Assume 2 volt DC forward drop
 * Don't want the LEDs to be especially bright or use much current, 10 mA per LED will be fine
 
-## TODO
-
-* [ ]
-* [ ]
-* [ ]
-
 ## Licence
 
 Copyright © 2017, 2019 Phil Baldwin
