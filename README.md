@@ -27,7 +27,7 @@ The bill of materials lists specific a part number for the 3 LEDs but really any
 
 ## Licence
 
-Copyright © 2017 Phil Baldwin
+Copyright © 2017, 2019 Phil Baldwin
 
 This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0).
 
