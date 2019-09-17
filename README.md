@@ -4,7 +4,7 @@
 
 .....
 
-## Design files
+## PCB design files
 
 This board was designed using the [Upverter](https://upverter.com) web service.
 
@@ -20,6 +20,10 @@ The bill of materials lists specific a part number for the 3 LEDs but really any
 * Assume 2 volt DC forward drop
 * Don't want the LEDs to be especially bright or use much current, 10 mA per LED will be fine
 * Resistor values can be changed to increase or descrease brightness, see design-calcs.ipynb
+
+## Mechanical
+
+........
 
 ## Licence
 
