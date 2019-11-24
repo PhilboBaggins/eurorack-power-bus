@@ -16,10 +16,18 @@ The bill of materials lists specific a part number for the 3 LEDs but really any
 
 ### LEDs
 
-* Something like this https://www.sparkfun.com/products/533
-* Assume 2 volt DC forward drop
+The 3 LEDs indicate the presence of the 3 powers rails (+12V, -12V, +5V). They don't indicate that the power supply is behaving itself or that the power rail has the right voltage. LED brightness is controlled by the resistor next to each LED, recommended values:
+
+* +12 volt rail: 5k ohms
+* -12 volt rail: 5k ohms
+*  +5 volt rail: 1.5k ohms
+
+These resistances were calculated using the [design-calcs.ipynb](./design-calcs.ipynb) Jupyter Notebook. They were done with the following assumptions:
+
+* Use an LED like this https://www.sparkfun.com/products/533
+* Assume 2 volt DC forward drop for all LEDs
 * Don't want the LEDs to be especially bright or use much current, 10 mA per LED will be fine
-* Resistor values can be changed to increase or descrease brightness, see design-calcs.ipynb
+* Resistor values can be changed to increase or decrease brightness
 
 ## Mechanical
 
