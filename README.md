@@ -8,7 +8,7 @@
 
 This board was designed using the [Upverter](https://upverter.com) web service.
 
-The schematic, board layout and bill of materials can be viewed [here](https://upverter.com/Trebuchetindustries/c8ae200d804062f1/Eurorack-Power-Bus/). Exports from Upverter are available in a subdirectory.
+The schematic, board layout and bill of materials can be viewed [here](https://upverter.com/design/Trebuchetindustries/c8ae200d804062f1/Eurorack-Power-Bus/). Exports from Upverter are available in a subdirectory.
 
 The bill of materials lists specific a part number for the 3 LEDs but really any old 3mm through hole (radial) LED should work.
 
